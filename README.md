@@ -1,4 +1,4 @@
-# LINEミニアプリ × Agentic Development ハンズオン
+# LINEミニアプリ × Agentic Development ハンズオン!!
 
 このリポジトリは、LINEミニアプリを題材に **GitHub Copilot ChatでWebアプリをゼロから実装する** ハンズオン用のハーネスです。
 
